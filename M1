@@ -2,7 +2,7 @@ cur_title:(devops)
 
 AND
 
-((summary:(python OR bash) OR positions/description:(python OR bash) OR skills:(python or bash))
+((summary:(python OR bash) OR positions/description:(python OR bash) OR (summary:(script*) OR positions/description:(script*) AND skills:(python OR bash))
 
 
 
