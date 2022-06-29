@@ -1,0 +1,9 @@
+cur_title:(devops)
+
+AND
+
+((summary:(python OR bash) OR positions/description:(python OR bash) OR skills:(python or bash))
+
+
+
+
